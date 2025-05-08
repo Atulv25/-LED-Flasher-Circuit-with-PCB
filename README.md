@@ -8,7 +8,7 @@ The 555 timer is configured in astable mode. It continuously toggles its output 
 
 ## 📷 Preview
 
-![Circuit Diagram](./Circuit_Diagram/led_flasher_555.png)
+![Circuit Diagram](./Circuit_Diagram/Schematic_LED-Flasher-Circuit_2025-05-08.png)
 
 ## 🔩 Components Required
 
@@ -20,14 +20,6 @@ The 555 timer is configured in astable mode. It continuously toggles its output 
 | Capacitor       | 10µF/25V     | 1        |
 | LED             | Any color    | 1        |
 
-
-
-## 🛠️ Files Included
-
-- **Schematic Diagram**: [led_flasher_555.png](./Circuit_Diagram/led_flasher_555.png)
-- **KiCad PCB File**: [led_flasher_555.kicad_pcb](./PCB_Design/led_flasher_555.kicad_pcb)
-- **Gerber Files**: [Download ZIP](./PCB_Design/gerber_files.zip)
-- **Simulation File (Proteus)**: [led_flasher_555.proteus](./Simulation/led_flasher_555.proteus)
 
 ## 🔧 PCB Design Tips
 
